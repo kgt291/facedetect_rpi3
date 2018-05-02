@@ -1,0 +1,21 @@
+body{
+   padding-top: 10px;
+   background-color: #COFFFF;
+}
+#title{
+   padding: 20px;
+   font-size: 20px;
+   font-weight: bold;
+   text-algin: center;
+}
+#contents{
+   padding: 10px;
+   font-size: 15px;
+   text-algin: center;
+   background-color: #C0FFC0;
+}
+#photo{
+   padding: 10px;
+   text-align: center;
+   background-color: #FFFFC0;
+}
