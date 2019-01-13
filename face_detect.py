@@ -1,4 +1,4 @@
-#Dawars/SqueezeNet-tf
+#https://github.com/Dawars/SqueezeNet-tf
 import tensorflow as tf
 import numpy as np
 import cv2
